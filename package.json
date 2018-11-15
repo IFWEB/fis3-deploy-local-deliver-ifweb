@@ -1,0 +1,20 @@
+{
+  "name": "fis3-deploy-local-deliver-ifweb",
+  "version": "1.0.0",
+  "description": "fis3 deploy http-push plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "fis-plus",
+    "fis3",
+    "deploy"
+  ],
+  "author": {
+    "name": "wangwei"
+  },
+  "__npminstall_done": "Fri  Nov  15 2018 10:54:40 GMT+0800 (中国标准时间)",
+  "_from": "fis3-deploy-local-deliver-ifweb@1.0.0"
+}
