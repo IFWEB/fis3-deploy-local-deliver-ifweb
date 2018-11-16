@@ -22,8 +22,6 @@
           filter: /\.js$/
         }       
       ],
-      // rootPath: pth.resolve(__dirname,'../')
-      // rootPath: __dirname
     })
   })
 });
