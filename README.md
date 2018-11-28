@@ -9,7 +9,7 @@
       other: [ 
         { from:'/cssdemo/css/',
           to: '../css-dev',
-          filter: /\.css$/
+          filter: /\.css$/  //过滤器，只有满足过滤器filter并在from下的文件会部署到to的目录下
         },
         {
           from:'./html/',
