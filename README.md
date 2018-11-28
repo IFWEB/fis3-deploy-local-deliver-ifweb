@@ -2,7 +2,7 @@
 
 ## 说明
 改写fis3-deploy-local-deliver，在导出时可以添加部分文件导出到另外的目录。以工程目录（fis-conf.js所在的文件夹）为根目录进行配置
-### 按照
+### 安装
 ```
 npm install -g fis3-deploy-local-deliver-ifweb
 ```
